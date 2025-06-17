@@ -80,18 +80,22 @@ $$
 $$
 
 #### Term 2: $-R_{eq}$
+
 $$
 \frac{d}{dR_{eq}} (-R_{eq}) = -1
 $$
 
 ### Final Derivative:
 Combine the derivatives of both terms:
+
 $$
 \frac{df}{dR_{eq}} = \frac{t I_h (v - v_0)}{C (v - I_h R_{eq})(v_0 - I_h R_{eq}) \left( \ln \left( \frac{v - I_h R_{eq}}{v_0 - I_h R_{eq}} \right) \right)^2} - 1
 $$
 
 ### Simplified Form:
+
 Let $u = \frac{v - I_h R_{eq}}{v_0 - I_h R_{eq}}$, then:
+
 $$
 \frac{df}{dR_{eq}} = \frac{t I_h (v - v_0)}{C (v - I_h R_{eq})(v_0 - I_h R_{eq}) (\ln u)^2} - 1
 $$
