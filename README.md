@@ -74,6 +74,7 @@ $$
 $$
 
 Thus:
+
 $$
 \frac{d}{dR_{eq}} f_1(R_{eq}) = \frac{t I_h (v - v_0)}{C (v - I_h R_{eq})(v_0 - I_h R_{eq}) (\ln u)^2}
 $$
